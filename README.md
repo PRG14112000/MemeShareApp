@@ -2,4 +2,4 @@
 
 ## MemeGenerateAndShare
 
-It generates memes and you can share the link with your friends.
+An Android app which generates meme each time you press the "Next Button" in the app and can also shared with friends by clicking the "Share Button" .
